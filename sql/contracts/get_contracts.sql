@@ -1,0 +1,1 @@
+SELECT id, link, created_at, description, name_product, "default", link_contract FROM contracts

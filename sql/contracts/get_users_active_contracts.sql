@@ -1,0 +1,1 @@
+SELECT * FROM users_contracts WHERE contract_id = $1 and active = true
